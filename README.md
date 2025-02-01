@@ -49,7 +49,7 @@ your total is $50.00
 3. 🖥️ Open a terminal or command prompt and navigate to the script directory.
 4. ▶️ Run the script using:
    ```bash
-   python food_order.py
+   python shopping_cart.py
    ```
 
 ## 📜 License
